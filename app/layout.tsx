@@ -22,7 +22,7 @@ export default function RootLayout({
           GeistMono.variable,
           GeistSans.variable,
           "flex flex-col min-h-screen"
-        )}
+        )}//just it working of next js
       >
         <Nav />
         {children}
