@@ -19,8 +19,8 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={cn(
-          GeistSans.variable,
           GeistMono.variable,
+          GeistSans.variable,
           "flex flex-col min-h-screen"
         )}
       >
